@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_test/static/css/main.c05ca836.css",
+    "main.js": "/react_test/static/js/main.85d094f1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_test/static/js/787.28cb0dcd.chunk.js",
+    "static/media/partners.png": "/react_test/static/media/partners.2dd91050d71a94be6cd9.png",
+    "static/media/main_images.png": "/react_test/static/media/main_images.c883a245790a52e13eec.png",
+    "static/media/footprint.png": "/react_test/static/media/footprint.510a4fee8e1aba6c75de.png",
+    "static/media/case_enter.png": "/react_test/static/media/case_enter.3851e26c147742c807b4.png",
+    "static/media/main_partners.png": "/react_test/static/media/main_partners.b365b9a414bfcb14f2ef.png",
+    "static/media/case_eco.png": "/react_test/static/media/case_eco.983bdfce2bf6cb7d262d.png",
+    "static/media/case_fintech.png": "/react_test/static/media/case_fintech.57756c1239fa4f0010a5.png",
+    "static/media/case_supply.png": "/react_test/static/media/case_supply.0107f32ad5b9fb3712e5.png",
+    "static/media/int_img.png": "/react_test/static/media/int_img.12d51cad6a80be634e3b.png",
+    "static/media/case_fly.png": "/react_test/static/media/case_fly.0cab79f1c17d15fe3911.png",
+    "static/media/case_energy.png": "/react_test/static/media/case_energy.f199b75ffedbc147886c.png",
+    "static/media/case_rid.png": "/react_test/static/media/case_rid.48049414ab2914fad84d.png",
+    "static/media/case_fleet.png": "/react_test/static/media/case_fleet.894550a5517fa4292a4a.png",
+    "static/media/how_tr.png": "/react_test/static/media/how_tr.87b1f287f14db5b20a38.png",
+    "index.html": "/react_test/index.html",
+    "main.c05ca836.css.map": "/react_test/static/css/main.c05ca836.css.map",
+    "main.85d094f1.js.map": "/react_test/static/js/main.85d094f1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05ca836.css",
+    "static/js/main.85d094f1.js"
+  ]
+}
