@@ -1,0 +1,102 @@
+#footer {
+    background-color: #193844;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer_wrap {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+#footer_up {
+    margin-bottom: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    #footer_up_text {
+        display: flex;
+        width: 50%;
+        justify-content: flex-end;
+        a {
+            text-decoration: none;
+            font-size: 14px;
+            line-height: 16px;
+            color: white;
+        }
+        input {
+            margin-left: 35px;
+            font-size: 15px;
+            line-height: 16px;
+            color: white;
+            background-color: #00CA90;
+            border: 0;
+            border-radius: 50px;
+            cursor: pointer;
+            width: 167px;
+        }
+    }
+}
+
+#footer_mid {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 20%;
+    border-top: 1px solid #275668;
+    border-bottom: 1px solid #275668;
+    padding: 45px 0;
+    div {
+        flex: 19%;
+        min-width: 200px;
+    }
+    span {
+        color: rgba(255, 255, 255, 0.75);
+        letter-spacing: 2.6px;
+        text-transform: uppercase;
+        font-size: 13px;
+        line-height: 17px;
+    }
+    a {
+        text-decoration: none;
+        color: white;
+        font-size: 14px;
+        line-height: 19px;
+    }
+    ul {
+        padding: 0;
+    }
+    li {
+        list-style: none;
+    }
+    li:nth-child(2) {
+        margin-top: 24px;
+    }
+    li:not(:first-child, :last-child) {
+        margin-bottom: 17px;
+    }
+}
+
+#footer_down {
+    margin: 46px 0;
+    span {
+        color: white;
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    #footer_up {
+        flex-direction: column;
+        justify-content: center;
+        #footer_up_text {
+            width: 100%;
+            justify-content: center;
+            margin-top: 30px;
+        }
+    }
+}
